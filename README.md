@@ -1,2 +1,1 @@
-# Crakovio
-intento numero mil
+Este proyecto es una prueba de que soy un crakovio de crakovia
